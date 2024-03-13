@@ -20,5 +20,5 @@ Currently, I'm gaining hands-on experience with Flutter technology at ThinkNovus
 I'm currently focused on mastering Flutter technology and continuously expanding my knowledge in mobile app development.
 
 ## Let's Connect 📫
-Feel free to reach out to me via [Email](deepkaswala@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/deep-kaswala). Let's collaborate and build something amazing together!
+Feel free to reach out to me via [Email](mailto:deepkaswala@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/deep-kaswala). Let's collaborate and build something amazing together!
 
