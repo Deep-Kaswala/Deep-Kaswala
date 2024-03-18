@@ -7,6 +7,8 @@ I'm currently an undergraduate student pursuing my degree in Computer Engineerin
 Currently, I'm gaining hands-on experience with Flutter technology at ThinkNovus Technologies. Working on real-world projects and honing my skills in mobile app development.
 
 ## Education 📚
+- **Diploma:** Diploma in Information Technology (IT)
+- **University:** LJ Polytechnic
 - **Degree:** Bachelor of Engineering in Computer Engineering
 - **University:** LJIET (LJ Institute of Engineering & Technology)
 
